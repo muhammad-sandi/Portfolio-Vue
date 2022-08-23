@@ -7,7 +7,7 @@ import HelloWorld from './components/HelloWorld.vue'
   <header>
     <img  alt="Vue logo" class="logo" src="src/assets/cv-img.jpg" width="200" height="" />
     <div class="wrapper">
-      <HelloWorld msg="Muhammad Sandi" msg1="XII RPL 2" />
+      <b><HelloWorld style="margin-top: 3rem;" msg="Muhammad Sandi" msg1="XII RPL 2" /></b>
 
       <nav>
         <RouterLink to="/">Personal</RouterLink>

@@ -12,7 +12,7 @@
 
 <template>
   <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-  <img alt="Vue logo" class="img" src="src/assets/cv-img.jpg" width="100" height="" />
+  <!-- <img alt="Vue logo" class="img" src="src/assets/cv-img.jpg" width="100" height="" /> -->
 
   <div class="container">
     <WelcomeItem>
