@@ -14,17 +14,14 @@
 
 <template>
   <div class="greetings">
-    <h1 class="green">{{ msg }}</h1>
-    <h1 class="green">{{ msg1 }}</h1>
+    <b><h1 class="green">{{ msg }}</h1></b>
+    <b><h1 class="green">{{ msg1 }}</h1></b>
     <hr>
     <h3>
       Saya seorang Front End Developer dengan pengetahuan menyeluruh tentang desain dan website. Saya mampu bekerja di
       bawah tekanan, dan juga dapat bekerja secara individual maupun dalam tim. Saya mampu berkomunikasi dengan baik
       dengan rekan tim, dan dapat mengatur waktu.
     </h3>
-
-    <!-- <a target="_blank" href="https://vitejs.dev/">Vite</a> +
-      <a target="_blank" href="https://vuejs.org/">Vue 3</a>. -->
   </div>
 </template>
 
